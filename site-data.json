@@ -2,26 +2,26 @@
   "business": {
     "name": "Buzz Electrics",
     "shortName": "Buzz Electrics",
-    "tagline": "Reliable Electrical Solutions for Dallas Homes & Businesses",
+    "tagline": "Dallas's Trusted Electrical Experts",
     "niche": "Electrician",
     "phone": "(469) 619-1727",
     "address": "Done",
     "city": "Dallas, TX",
-    "hours": "Mon-Fri 7:00 AM - 7:00 PM, Sat 8:00 AM - 4:00 PM",
-    "ctaLabel": "Get a Free Quote",
+    "hours": "Mon-Fri 7:00 AM - 7:00 PM, Sat 8:00 AM - 4:00 PM, Sun Closed",
+    "ctaLabel": "Get a Free Estimate",
     "headerCta": "Call Now"
   },
   "seo": {
-    "title": "Best Electrician in Dallas, TX | Buzz Electrics | (469) 619-1727",
-    "description": "Buzz Electrics is the trusted electrician in Dallas, TX. We provide residential and commercial electrical services including wiring, panel upgrades, lighting, and troubleshooting. Call (469) 619-1727 for fast, reliable service."
+    "title": "Buzz Electrics | Top-Rated Electrician in Dallas, TX | (469) 619-1727",
+    "description": "Buzz Electrics provides expert electrical services in Dallas, TX. From residential repairs to commercial installations, our licensed electricians ensure safety and quality. Call (469) 619-1727 for fast, reliable service."
   },
   "home": {
     "hero": {
-      "eyebrow": "Dallas's Top-Rated Electrician",
-      "headline": "Expert Electrical Services You Can Trust",
-      "subheadline": "From emergency repairs to full rewiring, we deliver safe, code-compliant electrical solutions with unmatched professionalism.",
-      "primaryCta": "Schedule Service",
-      "secondaryCta": "Call (469) 619-1727"
+      "eyebrow": "Licensed & Insured Electrician in Dallas",
+      "headline": "Powering Dallas with Safe, Reliable Electrical Solutions",
+      "subheadline": "From emergency repairs to full rewiring, our team delivers expert craftsmanship and peace of mind.",
+      "primaryCta": "Get a Free Estimate",
+      "secondaryCta": "Explore Services"
     },
     "stats": [
       {
@@ -29,130 +29,127 @@
         "label": "Projects Completed"
       },
       {
-        "value": "4.9",
-        "label": "Customer Rating"
-      },
-      {
         "value": "15+",
         "label": "Years Experience"
       },
       {
-        "value": "99%",
-        "label": "On-Time Arrival"
+        "value": "4.9",
+        "label": "Average Rating"
+      },
+      {
+        "value": "100%",
+        "label": "Satisfaction Guarantee"
       }
     ],
     "featureSections": [
       {
-        "eyebrow": "Residential Electrical",
-        "title": "Keeping Your Home Safe & Powered",
-        "body": "From flickering lights to complete panel upgrades, our licensed electricians handle all residential electrical needs. We prioritize safety, code compliance, and minimal disruption to your daily life.",
+        "eyebrow": "Residential Electrical Services",
+        "title": "Your Home's Safety Is Our Priority",
+        "body": "Whether you need a simple outlet repair or a complete panel upgrade, our electricians treat your home with respect and precision. We use top-grade materials and follow all safety codes to ensure lasting results.",
         "bullets": [
-          "Panel upgrades & troubleshooting",
-          "Lighting installation & design",
-          "Outlet & switch repairs",
-          "Ceiling fan installation"
+          "Licensed and insured for your protection",
+          "Transparent pricing with no hidden fees",
+          "Same-day service available for emergencies"
         ],
         "reverse": false,
-        "cardLabel": "Service Spotlight",
-        "cardTitle": "Whole-Home Rewiring",
-        "cardBody": "Old wiring can be a fire hazard. We replace outdated systems with modern, safe wiring that meets current codes."
+        "cardLabel": "Service Highlight",
+        "cardTitle": "Panel Upgrades",
+        "cardBody": "Modernize your electrical panel to handle today's power demands and reduce fire risk."
       },
       {
-        "eyebrow": "Commercial Electrical",
-        "title": "Powering Your Business Operations",
-        "body": "Downtime costs money. Our commercial electricians provide fast, reliable service for offices, retail spaces, and industrial facilities. We work around your schedule to minimize disruption.",
+        "eyebrow": "Commercial Electrical Solutions",
+        "title": "Keep Your Business Running Smoothly",
+        "body": "Downtime costs money. Our commercial electricians provide fast, efficient service to minimize disruption. From wiring new construction to troubleshooting existing systems, we keep you powered.",
         "bullets": [
-          "New construction wiring",
-          "Emergency lighting & backup power",
-          "Data cabling & network setup",
-          "Energy-efficient upgrades"
+          "After-hours service to avoid business interruption",
+          "Free estimates for commercial projects",
+          "Ongoing maintenance plans available"
         ],
         "reverse": true,
-        "cardLabel": "Business Solution",
-        "cardTitle": "Energy Audits",
-        "cardBody": "Reduce your electricity bills with a professional energy audit. We identify waste and recommend cost-saving upgrades."
+        "cardLabel": "Service Highlight",
+        "cardTitle": "Emergency Repairs",
+        "cardBody": "24/7 emergency response for critical electrical issues. Call (469) 619-1727 anytime."
       }
     ],
     "whyTitle": "Why Choose Buzz Electrics?",
     "whyChooseUs": [
       {
         "title": "Licensed & Insured",
-        "description": "All our electricians are fully licensed and insured, giving you peace of mind and protection."
+        "description": "Full liability insurance and state licensing protect you and your property."
       },
       {
-        "title": "Transparent Pricing",
-        "description": "No hidden fees. We provide upfront quotes before any work begins, so you know exactly what to expect."
+        "title": "Upfront Pricing",
+        "description": "No surprises – we provide detailed estimates before any work begins."
       },
       {
-        "title": "Prompt & Reliable",
-        "description": "We respect your time. Our team arrives on schedule and completes projects efficiently without sacrificing quality."
+        "title": "Experienced Team",
+        "description": "Our electricians have over 15 years of combined experience in residential and commercial systems."
       },
       {
         "title": "Satisfaction Guaranteed",
-        "description": "We stand behind our work. If you're not happy, we'll make it right — no questions asked."
+        "description": "We stand behind our work with a 100% satisfaction guarantee. If you're not happy, we make it right."
       }
     ],
     "testimonials": [
       {
-        "quote": "Buzz Electrics rewired our entire home. They were professional, on time, and left everything spotless. Highly recommend!",
-        "author": "Sarah M.",
-        "role": "Homeowner, Lakewood"
+        "quote": "They rewired our entire home and were incredibly professional. Clean, on time, and the price was fair.",
+        "author": "Mark T.",
+        "role": "Lake Highlands Homeowner"
       },
       {
-        "quote": "We use Buzz for all our commercial projects. Their team is responsive, knowledgeable, and always delivers on time.",
-        "author": "David R.",
-        "role": "Property Manager, Uptown"
+        "quote": "Had an emergency outage at my restaurant. Buzz Electrics arrived within an hour and had us back up and running. Highly recommend.",
+        "author": "Linda R.",
+        "role": "Bishop Arts District Business Owner"
       },
       {
-        "quote": "Had an emergency outage on a Sunday. They were at my door within an hour and fixed the issue quickly. Lifesavers!",
-        "author": "Jessica T.",
-        "role": "Homeowner, Oak Lawn"
+        "quote": "Installed new lighting and outlets in our remodel. Great communication and quality work.",
+        "author": "David K.",
+        "role": "Uptown Resident"
       }
     ],
     "cta": {
       "headline": "Ready to Get Started?",
-      "subheadline": "Call us today or schedule online for a free estimate.",
-      "primaryCta": "Book Online",
-      "secondaryCta": "Call (469) 619-1727"
+      "subheadline": "Call (469) 619-1727 or fill out our online form for a free, no-obligation estimate.",
+      "primaryCta": "Get a Free Estimate",
+      "secondaryCta": "Call Now"
     }
   },
   "servicesPage": {
-    "intro": "At Buzz Electrics, we offer a full range of electrical services for residential and commercial clients in Dallas. Our licensed electricians combine technical expertise with exceptional customer service to deliver safe, reliable, and efficient solutions. Explore our services below or call us to discuss your project."
+    "intro": "From small repairs to large installations, Buzz Electrics offers a full range of electrical services in Dallas. Our licensed electricians use the latest tools and techniques to ensure safety, efficiency, and durability."
   },
   "services": [
     {
       "icon": "01",
       "title": "Residential Wiring & Rewiring",
-      "shortDescription": "Safe, code-compliant wiring for new homes, additions, and old house rewiring.",
-      "longDescription": "Whether you're building a new home or updating outdated wiring, our team ensures every wire is installed to the highest safety standards. We handle everything from rough-in wiring to complete rewires, minimizing dust and disruption.",
+      "shortDescription": "Safe and code-compliant wiring for new construction, additions, and older homes.",
+      "longDescription": "Whether you're building a new home or upgrading outdated wiring, our team ensures every connection meets the highest standards. We handle all types of residential wiring, including knob-and-tube replacement, aluminum wiring mitigation, and smart home integration.",
       "benefits": [
-        "Enhanced safety with modern wiring",
-        "Increased home value",
-        "Fewer tripped breakers and flickering lights",
-        "Peace of mind with code compliance"
+        "Enhanced safety and reduced fire risk",
+        "Supports modern appliances and electronics",
+        "Increases home value"
       ],
       "process": [
         {
-          "title": "Inspection & Assessment",
-          "description": "We inspect your current wiring and discuss your needs to create a tailored plan."
+          "title": "Inspection",
+          "description": "We assess your current system and discuss your needs."
         },
         {
-          "title": "Installation & Upgrades",
-          "description": "Our electricians install new wiring, outlets, and panels with precision and care."
+          "title": "Plan & Estimate",
+          "description": "We provide a detailed plan and transparent quote."
         },
         {
-          "title": "Testing & Final Walkthrough",
-          "description": "We test every circuit and walk you through the work to ensure your satisfaction."
+          "title": "Installation",
+          "description": "Our electricians complete the work cleanly and efficiently."
         }
       ],
       "faqs": [
         {
           "question": "How do I know if my home needs rewiring?",
-          "answer": "Signs include frequent breaker trips, flickering lights, burning smells, or outlets that are warm to the touch. If your home is over 40 years old, it's worth an inspection."
+          "answer": "Signs include flickering lights, frequent breaker trips, and outlets that feel warm. If your home is over 40 years old, it's wise to have an inspection."
         },
         {
           "question": "How long does a full rewiring take?",
-          "answer": "A typical whole-home rewiring can take 3-7 days depending on the size and complexity of the home."
+          "answer": "It depends on the size of your home. Most projects take 3-5 days. We minimize disruption by working efficiently and cleaning up daily."
         }
       ],
       "slug": "residential-wiring-rewiring"
@@ -160,36 +157,35 @@
     {
       "icon": "02",
       "title": "Electrical Panel Upgrades",
-      "shortDescription": "Upgrade your electrical panel to handle modern power demands safely.",
-      "longDescription": "An outdated electrical panel can be a fire hazard and limit your ability to use modern appliances. We upgrade panels to 200 amps or more, ensuring your home has the capacity it needs.",
+      "shortDescription": "Upgrade your breaker panel to handle modern power loads safely.",
+      "longDescription": "Older panels may not support today's electrical demands, leading to tripped breakers and potential hazards. We install high-capacity panels from top manufacturers, ensuring your home or business has reliable power distribution.",
       "benefits": [
-        "Supports modern appliances & electronics",
-        "Reduces risk of electrical fires",
         "Eliminates frequent breaker trips",
-        "Adds value to your home"
+        "Accommodates new appliances and systems",
+        "Improves energy efficiency"
       ],
       "process": [
         {
           "title": "Load Calculation",
-          "description": "We calculate your home's electrical load to determine the right panel size."
+          "description": "We calculate your current and future power needs."
         },
         {
-          "title": "Permitting & Preparation",
-          "description": "We handle all permits and prepare your home for a smooth upgrade."
+          "title": "Permitting",
+          "description": "We handle all permits and inspections required by Dallas code."
         },
         {
-          "title": "Installation & Inspection",
-          "description": "Our team installs the new panel and passes all required inspections."
+          "title": "Installation & Testing",
+          "description": "We install the new panel and test every circuit for safety."
         }
       ],
       "faqs": [
         {
           "question": "What size panel do I need?",
-          "answer": "Most modern homes require 200 amps. If you have a large home or many appliances, we may recommend 400 amps."
+          "answer": "Most homes benefit from a 200-amp panel. We'll recommend the right size based on your usage and future plans."
         },
         {
-          "question": "How much does a panel upgrade cost?",
-          "answer": "Costs vary based on the panel size and complexity. We provide a free, no-obligation quote before starting any work."
+          "question": "Is an upgrade worth the investment?",
+          "answer": "Yes – it increases safety, prevents damage to electronics, and can lower your insurance premiums."
         }
       ],
       "slug": "electrical-panel-upgrades"
@@ -197,36 +193,35 @@
     {
       "icon": "03",
       "title": "Lighting Installation & Design",
-      "shortDescription": "Beautiful, energy-efficient lighting for indoors and outdoors.",
-      "longDescription": "Transform your space with custom lighting design. From cozy ambient lighting to task lighting and outdoor security lights, we help you choose and install fixtures that enhance your home's beauty and functionality.",
+      "shortDescription": "Indoor and outdoor lighting solutions that enhance ambiance and security.",
+      "longDescription": "From recessed lighting to landscape illumination, we design and install lighting that transforms your space. Our team works with you to choose fixtures and placement that match your style while maximizing efficiency with LED options.",
       "benefits": [
-        "Lower energy bills with LED options",
-        "Enhanced curb appeal and security",
-        "Customized lighting for any room",
-        "Professional installation with warranty"
+        "Customized design for any room or outdoor area",
+        "Energy-saving LED options reduce bills",
+        "Improved home security with motion-activated lights"
       ],
       "process": [
         {
-          "title": "Consultation & Design",
-          "description": "We discuss your vision and recommend fixtures and layouts that fit your style and budget."
+          "title": "Consultation",
+          "description": "We discuss your vision and assess the space."
         },
         {
-          "title": "Fixture Selection & Procurement",
-          "description": "We help you select quality fixtures and order them at competitive prices."
+          "title": "Design Proposal",
+          "description": "We create a lighting plan with fixture recommendations."
         },
         {
-          "title": "Installation & Setup",
-          "description": "Our electricians install all fixtures, switches, and dimmers for a seamless finish."
+          "title": "Installation",
+          "description": "We install all wiring, fixtures, and controls professionally."
         }
       ],
       "faqs": [
         {
-          "question": "Can you install smart lighting?",
-          "answer": "Yes! We specialize in smart lighting systems that you can control via your phone or voice assistant."
+          "question": "Can you install smart lighting systems?",
+          "answer": "Absolutely. We work with brands like Lutron, Philips Hue, and others to integrate smart controls."
         },
         {
-          "question": "Do you offer outdoor lighting?",
-          "answer": "Absolutely. We install landscape lighting, security lights, and patio fixtures to brighten your outdoor spaces."
+          "question": "Do you offer outdoor lighting for commercial properties?",
+          "answer": "Yes, we provide commercial-grade outdoor lighting for parking lots, signage, and security."
         }
       ],
       "slug": "lighting-installation-design"
@@ -234,85 +229,84 @@
     {
       "icon": "04",
       "title": "Emergency Electrical Repairs",
-      "shortDescription": "24/7 emergency service for outages, sparks, and other hazards.",
-      "longDescription": "Electrical emergencies don't wait for business hours. Our team is on call 24/7 to handle power outages, sparking outlets, exposed wires, and other dangerous situations. We arrive quickly to restore safety and power.",
+      "shortDescription": "Fast, 24/7 response for urgent electrical issues.",
+      "longDescription": "Electrical emergencies don't wait for business hours. Our team is on call 24/7 to handle power outages, sparking outlets, exposed wires, and other dangerous situations. We prioritize safety and restore your power quickly.",
       "benefits": [
-        "Rapid response 24/7",
-        "Licensed & insured technicians",
-        "Same-day service available",
-        "Peace of mind in emergencies"
+        "Rapid response – usually within 60 minutes",
+        "Fully stocked trucks for immediate repairs",
+        "Peace of mind knowing help is always available"
       ],
       "process": [
         {
-          "title": "Emergency Call",
-          "description": "Call our hotline anytime. We'll dispatch a technician immediately."
+          "title": "Call Dispatch",
+          "description": "Call (469) 619-1727 – we'll ask about the issue and send the nearest team."
         },
         {
           "title": "On-Site Assessment",
-          "description": "Our electrician arrives and assesses the hazard, taking immediate safety measures."
+          "description": "We diagnose the problem and explain the solution."
         },
         {
-          "title": "Repair & Restoration",
-          "description": "We fix the issue and restore power safely, then provide a full report."
+          "title": "Repair & Safety Check",
+          "description": "We fix the issue and test the system to ensure safety."
         }
       ],
       "faqs": [
         {
           "question": "What qualifies as an electrical emergency?",
-          "answer": "Any situation that poses a fire or shock risk: sparking outlets, burning smells, power outages, or exposed wires."
+          "answer": "Any situation that poses an immediate safety risk: exposed wires, smoke from outlets, power loss in critical areas, etc."
         },
         {
-          "question": "How fast can you get here?",
-          "answer": "We typically arrive within 1-2 hours for emergency calls in the Dallas area."
+          "question": "Do you charge extra for emergency calls?",
+          "answer": "We have a standard emergency service fee, but we never upsell unnecessary repairs. Our rates are transparent."
         }
       ],
       "slug": "emergency-electrical-repairs"
     }
   ],
   "about": {
-    "headline": "Your Trusted Dallas Electricians",
-    "mission": "To provide safe, reliable, and affordable electrical services that exceed expectations — every time.",
+    "headline": "Bringing Power and Safety to Dallas Homes & Businesses",
+    "mission": "Our mission is to provide exceptional electrical services that prioritize safety, reliability, and customer satisfaction. We believe in honest communication, fair pricing, and craftsmanship that lasts.",
     "story": [
-      "Buzz Electrics was founded in 2008 by a team of master electricians who saw a need for honest, high-quality electrical work in Dallas. Starting with a single truck and a commitment to excellence, we built a reputation for solving tough electrical problems with precision and care. Today, we serve hundreds of homeowners and businesses across the metroplex, from historic homes in Lakewood to modern offices in Uptown.",
-      "Our team undergoes continuous training to stay current with the latest codes and technologies. We believe in doing the job right the first time, with transparent communication and fair pricing. Whether it's a simple outlet repair or a complex commercial installation, we treat every project with the same dedication."
+      "Buzz Electrics was founded by a team of master electricians who saw a need for trustworthy service in Dallas. Tired of fly-by-night operators and shoddy work, they set out to build a company that puts quality first. Starting with just a truck and a commitment to excellence, they grew through word-of-mouth and repeat business.",
+      "Today, Buzz Electrics serves hundreds of residential and commercial clients across the Dallas metro area. Our team continues to invest in training, tools, and technology to stay ahead of industry standards. We're proud to be a local business that treats every job like it's our own home."
     ],
     "highlight": {
       "stat": "500+",
-      "label": "Satisfied Customers"
+      "label": "Projects Completed with 100% Satisfaction"
     },
     "coreValues": [
       {
-        "title": "Safety First",
-        "description": "We never compromise on safety. Every job meets or exceeds code requirements."
-      },
-      {
         "title": "Integrity",
-        "description": "We give honest advice, transparent pricing, and stand behind our work."
+        "description": "We do what we say and stand behind our work."
       },
       {
-        "title": "Craftsmanship",
-        "description": "Our electricians take pride in clean, precise work that looks as good as it performs."
+        "title": "Safety First",
+        "description": "Every job follows strict safety protocols to protect you and our team."
       },
       {
-        "title": "Customer Focus",
-        "description": "We listen to your needs and tailor solutions to fit your home and budget."
+        "title": "Continuous Improvement",
+        "description": "We stay updated on the latest codes and technologies."
+      },
+      {
+        "title": "Community Focus",
+        "description": "We're proud to support local Dallas organizations and events."
       }
     ]
   },
   "contact": {
-    "headline": "Get in Touch",
-    "subheadline": "Ready to start your project? Call or fill out the form for a free estimate.",
+    "headline": "Get in Touch with Buzz Electrics",
+    "subheadline": "Ready to start your project? Call us or fill out the form below for a free estimate.",
     "primaryCta": "Call (469) 619-1727",
     "formCta": "Send Message",
     "serviceAreas": [
       "Dallas",
-      "Highland Park",
-      "University Park",
-      "Lakewood",
-      "Oak Lawn",
-      "Uptown",
-      "Preston Hollow",
-      "North Dallas"
+      "Fort Worth",
+      "Arlington",
+      "Plano",
+      "Garland",
+      "Irving",
+      "Mesquite",
+      "Carrollton"
     ]
   },
   "social_proof": {
